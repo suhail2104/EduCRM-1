@@ -1,0 +1,6 @@
+{
+  "name": "Jeevi Edu CRM",
+  "description": "Enterprise Education & Coaching CRM with AI Call Summaries, 9-Stage Kanban Pipeline, Lead Analytics, and Audio Recordings",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
